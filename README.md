@@ -12,3 +12,7 @@ Day 2:
 Day 3:
     Question - Leetcode 13 : Roman to Integer
     Info [here](003\README.md)
+
+Day 4:
+     Question - Leetcode 14 : Longest Common Prefix
+     Info [here](004\README.md)
