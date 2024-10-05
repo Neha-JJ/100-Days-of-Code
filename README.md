@@ -18,5 +18,5 @@ Day 4:
      Info [here](004\README.md)
 
 Day 5:
-     Question Leetcode 20 : Valid Parentheses
+     Question - Leetcode 20 : Valid Parentheses
      Info [here](005\README.md)
