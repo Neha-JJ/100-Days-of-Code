@@ -20,3 +20,7 @@ Day 4:
 Day 5:
      Question - Leetcode 20 : Valid Parentheses
      Info [here](005\README.md)
+
+Day 6:
+     Question - Leetcode 69 : Sqrt(x)
+     Info [here](006\README.md)
