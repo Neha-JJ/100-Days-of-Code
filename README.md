@@ -24,3 +24,7 @@ Day 5:
 Day 6:
      Question - Leetcode 69 : Sqrt(x)
      Info [here](006\README.md)
+
+Day 7:
+     Question - Leetcode 28 : Find the index of the first occurence of the string
+     Info [here](007\README.md)
