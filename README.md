@@ -28,3 +28,7 @@ Day 6:
 Day 7:
      Question - Leetcode 28 : Find the index of the first occurence of the string
      Info [here](007\README.md)
+
+Day 8:
+     Question - Hackerrank Strings : Java Anagrams
+     Info [here](008\README.md)
