@@ -36,3 +36,7 @@ Day 8:
 Day 9:
      Question - Hackerrank Strings : Java String tokens
      Info [here](009\README.md)
+
+Day 10:
+      Question - Hackerrank Strings : Java String reverse - Palindrome
+      Info [here](010\README.md)
