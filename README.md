@@ -40,3 +40,11 @@ Day 9:
 Day 10:
       Question - Hackerrank Strings : Java String reverse - Palindrome
       Info [here](010\README.md)
+
+Day 11:
+      Question - Leetcode 2351 : First letter to appear twice
+      Info [here](011\README.md)
+
+Day 12:
+      Question - Leetcode 136 : Single Number
+      Info [here](012\README.md)
