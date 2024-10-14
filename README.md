@@ -48,3 +48,11 @@ Day 11:
 Day 12:
       Question - Leetcode 136 : Single Number
       Info [here](012\README.md)
+
+Day 13:
+      Question - Leetcode 118 : Pascal's Triangle
+      Info [here](013\README.md)
+
+Day 14:
+      Question - Leetcode 118 : Pascal's Triangle II
+      Info [here](014\README.md)
