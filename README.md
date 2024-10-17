@@ -56,3 +56,11 @@ Day 13:
 Day 14:
       Question - Leetcode 118 : Pascal's Triangle II
       Info [here](014\README.md)
+
+Day 15:
+      Question - Leetcode 704 : Binary Search
+      Info [here](015\README.md)
+
+Day 16:
+      Question - Leetcode 35 : Search Insert Position
+      Info [here](016\README.md)
