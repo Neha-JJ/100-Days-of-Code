@@ -69,3 +69,18 @@ Day 17:
      Question - Leetcode 58 : Length of Last Word
      Info [here](017\README.md)
 
+Day 18:
+     Question - Leetcode 83 : Remove Duplicates from Sorted List
+     Info [here](018\README.md)
+
+Day 19:
+     Question - Leetcode 88 : Merge Sorted Array
+     Info [here](019\README.md)
+
+Day 20:
+     Question - Leetcode 70 : Climbing Stairs
+     Info [here](020\README.md)
+
+Day 21: 
+     Questiom - Leetcode 66 : Plus One
+     Info [here](021\README.md)
