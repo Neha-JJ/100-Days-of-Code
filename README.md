@@ -84,3 +84,7 @@ Day 20:
 Day 21: 
      Questiom - Leetcode 66 : Plus One
      Info [here](021\README.md)
+
+Day 23:
+    Question - Leetcode 26 : Remove Duplicates from sorted array
+    Info [here](023\README.md)
