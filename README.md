@@ -88,3 +88,7 @@ Day 21:
 Day 23:
     Question - Leetcode 26 : Remove Duplicates from sorted array
     Info [here](023\README.md)
+
+Day 24:
+    Question - Leetcode 415: Add Strings
+    Info [here](024\README.md)
